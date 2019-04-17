@@ -1,0 +1,15 @@
+React Redux -state maintainence framework
+  4 Important components of React-Redux
+
+    Reducer - data producers for the Store - there will be n no of reducers
+    Store - where entire components states availables - it will be injected at root level
+    Provider - provides Store to our application root component
+    Action - Events happening in the components are handled here - means state change - it is an fucntion it will return on object
+
+    component has two things - data and function
+    data will be mapped to state - map state to props
+    fucntion will be mapped to action  - map dispatch to props
+
+    Redux -Thunk
+                  - both of them acts as middleware which is responsible for aysnc call
+    Redux - Saga

@@ -1,0 +1,8 @@
+scaffolding
+transfiler
+
+minifying the code
+Linting scripts to check the coding standard
+CLI- create-react-app -Comment Line Inteface
+npm - node package manager or yarn
+npm i --save-dev package name - to install package only for development process
